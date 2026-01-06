@@ -1,1 +1,9 @@
-# lash-ad
+# lash-ad/
+│
+├─ index.html
+├─ style.css
+└─ images/
+     ├─ avatar.jpg
+     ├─ work1.jpg
+     ├─ work2.jpg
+     └─ work3.jpg
